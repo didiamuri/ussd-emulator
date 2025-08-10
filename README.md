@@ -142,6 +142,7 @@ export async function POST(req: Request) {
   "serviceCode": "*123#",
   "text": "1*2"
 }
+```
 ---
 
 # 📥 Expected API Response
