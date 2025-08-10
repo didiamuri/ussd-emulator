@@ -159,7 +159,7 @@ export async function POST(req: Request) {
 ---
 
 # 🛠️ Built With
-* Next.js 13+ (App Router)
+* Next.js 14+ (App Router)
 * React / TypeScript
 * TailwindCSS
 * lucide-react (icons)
