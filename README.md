@@ -4,7 +4,7 @@ This project is a **USSD interface emulator** designed to test USSD APIs locally
 
 ## 🚀 Quick Demo
 
-<img src="https://github.com/didiamuri/ussd-emulator/ussd-simulator-preview.png" alt="USSD Emulator Preview" width="400"/>
+<img src="https://github.com/didiamuri/ussd-emulator/blob/master/ussd-simulator-preview.png" alt="USSD Emulator Preview" width="400"/>
 
 ---
 
